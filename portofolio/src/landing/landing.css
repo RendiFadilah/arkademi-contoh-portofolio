@@ -141,18 +141,3 @@
     background: #444;
     opacity: 0.3;
 }
-@media screen and (max-width:680px){
-
-	.flex-wrapper{
-		width: auto;
-		float: none;
-	}
-	.flex-form{
-		width: auto;
-		float: none;
-    }
-    .flex-scroll{
-        width: auto;
-        float: none;
-    }
-}
